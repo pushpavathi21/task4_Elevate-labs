@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT city) AS unique_cities FROM librarydb.Members;
